@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de44d8ac-7900-44a3-ae02-bf010f295405" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../PEP8_Practica_Correccion/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PEP8_Practica_Correccion/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="de44d8ac-7900-44a3-ae02-bf010f295405" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +19,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../PEP8_Practica_Correccion" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 4
