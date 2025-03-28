@@ -61,3 +61,4 @@ if __name__ == "__main__":
     print(f"El área del rectángulo es: {rectangulo.calcular_area()}")
     print(f"El área del triángulo es: {triangulo.calcular_area()}")
     print(f"El área del círculo es: {circulo.calcular_area()}")
+
